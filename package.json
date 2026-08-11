@@ -1,0 +1,1 @@
+{"name":"fieldservice-embedding-search","private":true,"type":"module","scripts":{"search":"node --experimental-strip-types src/field_service_search.ts","test":"node --experimental-strip-types --test src/dispatch_decision.test.ts"},"dependencies":{"openai":"^4.80.0"}}
